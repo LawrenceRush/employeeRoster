@@ -1,2 +1,2 @@
 # employeeRoster
-<img src="/gif/empRoster.gif" width="500" height="450" />
+<img src="/gif/empRoster.gif" width="600" height="450" />
